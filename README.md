@@ -2,7 +2,7 @@
 # SQL Portfolio – Retail Store Analysis
 
 ## Overview
-This repository contains a SQL portfolio project based on a retail store dataset. The purpose of this project is to demonstrate foundational SQL skills through practical data exploration and analysis.
+This repository contains a SQL portfolio project based on a retail store dataset obtained from kaggle. The purpose of this project is to demonstrate foundational SQL skills through practical data exploration and analysis.
 
 The notebook focuses on querying and summarizing data to answer basic business questions using clear and well-structured SQL queries.
 
